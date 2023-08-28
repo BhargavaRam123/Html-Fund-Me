@@ -1,0 +1,45 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    height: 100vh;
+    /* justify-content: center; */
+}
+
+.i1>button {
+    background-color: deepskyblue;
+    font-size: 30px;
+    border-radius: 7px;
+    color: white;
+    box-shadow: 2px 2px #d7d0d0;
+}
+
+.i2>button {
+    background-color: lightgreen;
+    font-size: 30px;
+    border-radius: 7px;
+    color: white;
+    box-shadow: 2px 2px #d7d0d0;
+}
+
+.i3>button {
+    background-color: lightgreen;
+    font-size: 25px;
+    border-radius: 7px;
+    color: white;
+    box-shadow: 2px 2px #d7d0d0;
+}
+
+.i4>button {
+    background-color: lightgreen;
+    font-size: 25px;
+    border-radius: 7px;
+    color: white;
+    box-shadow: 2px 2px #d7d0d0;
+
+}
+
+p {
+    font-size: 25px;
+    font-weight: bolder;
+}
